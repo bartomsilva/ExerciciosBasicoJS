@@ -70,7 +70,7 @@ b) agora imprima no console utilizando o console.log o tipo de cada variável.
       string
       boolean
 
-c) agora imprima no console, a quantidade caracteres ou itens das variáveis 
+c) agora imprima no console, a quantidade de caracteres ou itens das variáveis 
    nome, notas e hobbys.
 
    nome  ( como resultado deverá imprimir: 9 letras)
@@ -141,7 +141,7 @@ a) imprima no console o primeiro elemento do array que contém os dias da semana
 
 b) imprima no console o quarto elemento do array que contém dos dias da semana em português
 
-c) primima no console na mesma linha, o ultimo elemento do primeiro e do segundo array
+c) imprima no console na mesma linha, o ultimo elemento do primeiro e do segundo array
 
 como resultado deverá obter algo assim:
 sunday
