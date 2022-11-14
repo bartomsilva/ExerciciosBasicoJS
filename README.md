@@ -108,6 +108,7 @@ b) agora você precisa imprimir no console o seguinte: ( lembra? utilize templat
 Utilizando as mesmas variáveis do exercício 3, faça o seguinte:
 
 a) imprima no console qual variável tem o maior valor. ( lembra? utilize template strings )
+   obs: utilize o if
 
    como resposta deverá obter:
    o valor 20 é maior que 10
@@ -116,6 +117,7 @@ b) agora você deverá trocar o valor das variáveis entre elas, de modo
    que valorA passe a valer 20 e valorB passe a valer 10, utilize para
    isso uma terceira variável machamada auxiliar, após fazer as trocas
    imprima o valorA e o valorB.
+   obs: utilize o if
 
    como resultado deverá obter:
    o valor de valorA agora é 20
